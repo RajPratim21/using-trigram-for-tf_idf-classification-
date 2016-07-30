@@ -1,0 +1,5 @@
+class SparseVector:
+
+    keys  = []
+    values = []
+
